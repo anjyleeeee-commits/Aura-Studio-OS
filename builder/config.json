@@ -1,0 +1,13 @@
+{
+    "project_name": "Aura Studio Engine",
+    "version": "0.3",
+    "language": "th",
+    "author": "Aura",
+    "database": {
+        "characters": "data/characters/characters.json",
+        "locations": "data/locations/locations.json",
+        "cameras": "data/cameras/cameras.json",
+        "emotions": "data/emotions/emotions.json",
+        "actions": "data/actions/actions.json"
+    }
+}
